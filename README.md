@@ -24,7 +24,7 @@ A modern, web-based Markdown editor built with Streamlit that allows you to writ
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/markdown-editor.git
+git clone https://github.com/HamzaNasir0/Fancy-Python-Read.git
 cd markdown-editor
 ```
 
